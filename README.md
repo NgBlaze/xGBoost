@@ -4,11 +4,12 @@ This Python script automates the installation of required dependencies for a mac
 
 ## Usage
 
-1. Clone the repository to your local machine:
+1. Clone the repository to your local machine in the folder u want to run xGBoost:
+   Open Term
 
    ```bash
    git clone https://github.com/NgBlaze/xGBoost.git
    cd xGBoost
-2. install dependencies
+3. install dependencies
     ```bash
    pip install -r requirements.txt
